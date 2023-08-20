@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lukabartolo/my-porfolio.git/static/css/main.ff889240.css",
+    "main.js": "/lukabartolo/my-porfolio.git/static/js/main.ffd0cdc0.js",
+    "index.html": "/lukabartolo/my-porfolio.git/index.html",
+    "main.ff889240.css.map": "/lukabartolo/my-porfolio.git/static/css/main.ff889240.css.map",
+    "main.ffd0cdc0.js.map": "/lukabartolo/my-porfolio.git/static/js/main.ffd0cdc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff889240.css",
+    "static/js/main.ffd0cdc0.js"
+  ]
+}
